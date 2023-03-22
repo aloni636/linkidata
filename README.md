@@ -4,8 +4,13 @@ A place to dump all useful links we stumble upon.
 - [Linkidata 🔥😏](#linkidata-)
   - [Python](#python)
     - [Threading And Multiprocessing](#threading-and-multiprocessing)
+    - [Books](#books)
+  - [Git](#git)
+    - [Basics](#basics)
+    - [Rewrite History](#rewrite-history)
   - [Data Engineering](#data-engineering)
     - [TBD](#tbd)
+    - [Books](#books-1)
   - [Web](#web)
     - [Internet](#internet)
     - [API](#api)
@@ -13,6 +18,8 @@ A place to dump all useful links we stumble upon.
     - [Virtualization and Containers](#virtualization-and-containers)
     - [CI/CD](#cicd)
   - [General Programming Resources](#general-programming-resources)
+    - [Websites](#websites)
+    - [Books](#books-2)
 
 
 ## Python
@@ -20,21 +27,45 @@ A place to dump all useful links we stumble upon.
 ### Threading And Multiprocessing
 
 - Videos
-  -  [Python is NOT Single Threaded (and how to bypass the GIL)](https://www.youtube.com/watch?v=m2yeB94CxVQ)
+  - [Threading](https://www.youtube.com/watch?v=IEEhzQoKtQU)
+  - [Python is NOT Single Threaded (and how to bypass the GIL)](https://www.youtube.com/watch?v=m2yeB94CxVQ)
 - Documents
   - [What Is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
 
+### Books
+
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+- [Test Driven Development in Python](https://www.obeythetestinggoat.com/)
+
+- [Architecture Pattern in Python](https://www.cosmicpython.com/)
+
+- [Fluent Python](https://bibis.ir/science-books/programming/python/2022/Fluent%20Python%20Clear,%20Concise,%20and%20Effective%20Programming,%202nd%20Edition%20by%20Luciano%20Ramalho_bibis.ir.pdf)
 ## Git
 
+
+### Basics
+- Videos
+  - [ Learn Git In 15 Minutes ](https://www.youtube.com/watch?v=USjZcfj8yxE)
+- Documents
+  - [BitBucket Git Guide](https://www.atlassian.com/git/tutorials/what-is-version-control) - use github though
 ### Rewrite History
 
 - Videos
   - TBD
  - Articles
    - [A Guide to Git Interactive Rebase, with Practical Examples](https://www.sitepoint.com/git-interactive-rebase-guide/)
-
+  
 ## Data Engineering
 ### TBD
+### Books
+- With PDFS
+  - [The Data Warehouse Toolkit by Ralph Kimball and Margy Ross](https://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf)
+  - [Designing Data-Intensive Applications](https://public.nikhil.io/Designing%20Data%20Intensive%20Applications.pdf)
+  - [10 Best Books for Data Engineering with pdfs](https://medium.com/@letthedataconfess/10-best-books-for-data-engineering-with-pdfs-115e071a1d90)
+- Paid (or ones i didnt find pdf for)
+  - [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
+
 ## Web
 
 ### Internet
@@ -51,6 +82,7 @@ A place to dump all useful links we stumble upon.
   - [What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
   - [What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
   - [What is a Domain Name?](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
+
 ### API
 - Videos
   - [REST API](https://www.youtube.com/watch?v=-mN3VyJuCjM)
@@ -62,6 +94,8 @@ A place to dump all useful links we stumble upon.
 
 ### Virtualization and Containers
 - Videos
+  - [ Learn Docker in 7 Easy Steps - Full Beginner's Tutorial ](https://www.youtube.com/watch?v=gAkwW2tuIqE)
+  - [ Containerize Python Applications with Docker ](https://www.youtube.com/watch?v=0TFWtfFY87U)
   - [Big Misconceptions about Bare Metal, Virtual Machines, and Containers](https://www.youtube.com/watch?v=Jz8Gs4UHTO8)
   - [Containers vs VMs: What's the difference? ](https://www.youtube.com/watch?v=cjXI-yxqGTI)
   - [Kubernetes Explained in 6 Minutes | k8s Architecture](https://www.youtube.com/watch?v=TlHvYWVUZyc)
@@ -71,8 +105,19 @@ A place to dump all useful links we stumble upon.
 
 ## General Programming Resources
 
-- [calmcode.io](https://calmcode.io/) - cool website that has a lot of concepts
+### Websites
+  - [calmcode.io](https://calmcode.io/) - cool website that has a lot of concepts
 
-- [roadmap.sh](https://roadmap.sh/) - roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings.
+  - [roadmap.sh](https://roadmap.sh/) - roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings.
 
-- [ByteByteGo Newsletter](https://blog.bytebytego.com/) - a blog that has a lot of important concepts
+  - [ByteByteGo Newsletter](https://blog.bytebytego.com/) - a blog that has a lot of important concepts
+
+  - [Corey Schafer](https://www.youtube.com/@coreyms) - one of the best python youtubers out there
+
+### Books
+
+- [Every Book here (especially CS:APP)]( https://teachyourselfcs.com/)
+- [The Pragmatic Programmer](https://github.com/rajucs/Book-For-Programmers/blob/master/the-pragmatic-programmer.pdf)
+- [Code Complete](http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf)
+- [CODE](https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf)
+- [Head First Design Patterns, 2nd Edition](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
