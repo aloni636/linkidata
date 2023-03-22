@@ -24,6 +24,15 @@ A place to dump all useful links we stumble upon.
 - Documents
   - [What Is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
 
+## Git
+
+### Rewrite History
+
+- Videos
+  - TBD
+ - Articles
+   - [A Guide to Git Interactive Rebase, with Practical Examples](https://www.sitepoint.com/git-interactive-rebase-guide/)
+
 ## Data Engineering
 ### TBD
 ## Web
@@ -37,6 +46,7 @@ A place to dump all useful links we stumble upon.
   - [SSL, TLS, HTTPS Explained](https://www.youtube.com/watch?v=j9QmMEWmcfo)
   - [What happens when you type a URL into your browser? ](https://www.youtube.com/watch?v=AlkDbnbv7dk)
   - [Different Types of Web Hosting Explained!](https://www.youtube.com/watch?v=AXVZYzw8geg)
+  - [VPNs, Proxies and Secure Tunnels Explained (Deepdive)](https://www.youtube.com/watch?v=32KKwgF67Ho)
 - Documents
   - [What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
   - [What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
