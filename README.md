@@ -1,6 +1,8 @@
 # Linkidata 🔥😏
 
 A place to dump all useful links we stumble upon. 
+
+Feel free to add stuff you find as well! create your own branch and PR 
 - [Linkidata 🔥😏](#linkidata-)
   - [Python](#python)
     - [Threading And Multiprocessing](#threading-and-multiprocessing)
