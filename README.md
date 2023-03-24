@@ -11,7 +11,7 @@ Feel free to add stuff you find as well! create your own branch and PR
     - [Basics](#basics)
     - [Rewrite History](#rewrite-history)
   - [Data Engineering](#data-engineering)
-    - [TBD](#tbd)
+    - [Basics](#basics-1)
     - [Books](#books-1)
   - [Web](#web)
     - [Internet](#internet)
@@ -59,7 +59,13 @@ Feel free to add stuff you find as well! create your own branch and PR
    - [A Guide to Git Interactive Rebase, with Practical Examples](https://www.sitepoint.com/git-interactive-rebase-guide/)
   
 ## Data Engineering
-### TBD
+
+### Basics
+
+- [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - one of the best starting points if you have only some basic python knowledge
+- [r/dataengineering's Wiki](https://dataengineering.wiki/) - really good resource that covers a lot of basic concepts and learning resources
+- [The MAD (ML/AI/DATA) Landscape](https://mad.firstmark.com/)
+  
 ### Books
 - With PDFS
   - [The Data Warehouse Toolkit by Ralph Kimball and Margy Ross](https://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf)
@@ -108,7 +114,10 @@ Feel free to add stuff you find as well! create your own branch and PR
 ## General Programming Resources
 
 ### Websites
+
   - [calmcode.io](https://calmcode.io/) - cool website that has a lot of concepts
+
+  - [Project Euler](https://projecteuler.net/) - a series of math problems that are meant to be solved with a computer.
 
   - [roadmap.sh](https://roadmap.sh/) - roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings.
 
