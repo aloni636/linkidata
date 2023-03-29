@@ -58,6 +58,12 @@ Feel free to add stuff you find as well! create your own branch and PR
  - Articles
    - [A Guide to Git Interactive Rebase, with Practical Examples](https://www.sitepoint.com/git-interactive-rebase-guide/)
   
+### Undo
+
+- Articles
+  - [Can I recover a branch after its deletion in Git?](https://stackoverflow.com/questions/3640764/can-i-recover-a-branch-after-its-deletion-in-git)
+  - [reflog, your safety net](https://gitready.com/intermediate/2009/02/09/reflog-your-safety-net.html)
+
 ## Data Engineering
 ### TBD
 ### Books
